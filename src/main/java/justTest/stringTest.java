@@ -68,7 +68,7 @@ public class stringTest {
         *因为c2有final修饰
         *c2 +"c"在编译期间就会优化成 “ab”+“c”
         *而c2 +c4只能优化为“ab”+c4,还是会创建StringBuilder然后append然后再toString
-        *跟上面String b3 = b1+"c"一样了
+        *跟上面String b3 = b1+"c"一样了..
         * */
 
         System.out.println("*************************************************************");

@@ -113,6 +113,8 @@ public class stringTest {
         System.out.println(str.startsWith("aBcdeeee"));//false很显然
         /*
          * 就这吧，以后再加点，true啊false没意思
+         *
+         * 突然全爆红了..
          * */
 
 

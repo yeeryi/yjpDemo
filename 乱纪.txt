@@ -1,0 +1,14 @@
+Client Connected ：客户端已连接
+Client Begin Request ：客户端开始请求
+Got Request Headers ：获取请求头
+Client Done Request：客户端完成请求
+Determine  Gateway ：确定网关
+
+ServerConnected ：服务器已连接
+FiddlerBeginRequest ：fiddler开始请求
+ServerGotRequest ：服务器收到请求
+Server Begin Response ：服务器开始响应
+GotResponseHeaders ：获取响应头
+Server Done Response ：服务器完成响应
+Client Begin Response ：客户端开始响应
+Client Done Response ：客户端完成响应
